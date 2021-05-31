@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jkhaygood
+- 👀 I’m interested in front end web devlopment
+- 🌱 I’m currently learning html, css, javascript
+- 💞️ I’m looking to collaborate on any project that is with web devlopment
+- 📫 How to reach me through email at jasonkhaygood@gmail.com

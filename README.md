@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Haygood (@jkhaygood)
-- 👀 I’m interested in front end web devlopment
+- 👀 I’m interested in front end web devlopment and software devlopment
 - 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on any project that is with web devlopment
+- 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me through email at jasonkhaygood@gmail.com
